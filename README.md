@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Simran and I'm a Full Stack Web Developer from India</h2>
+<h2 align="left">Hi 👋! I'm Simran Rout, a Quality Assurance Engineer passionate about Software Quality, Test Automation, and delivering reliable software solutions.</h2>
 
 ###
 
