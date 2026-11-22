@@ -2,12 +2,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Simranritgithub&show_icons=true&theme=dracula" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simranritgithub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Simranritgithub&show_icons=true&theme=dracula"
+    height="150"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Simranritgithub&locale=en&layout=compact&langs_count=5&theme=dracula"
+    height="150"
+    alt="Most Used Languages"
+  />
 </div>
+
 
 ###
 
